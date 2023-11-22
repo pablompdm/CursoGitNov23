@@ -1,4 +1,5 @@
 #CursoGitNov23
 
+Este es el archivo explicativo del curso
 
-sdfggshsdgh
+Esta es la nueva línea	
