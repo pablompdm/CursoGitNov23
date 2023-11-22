@@ -1,0 +1,8 @@
+
+-template con index.html/estilos.css y carpeta de img
+-crear un blog utilizando git
+-crear una historia con los cambios
+-subir a remoto
+-hacer modificaciones en remoto
+-hacer modificaciones en local
+-resolver conflictos
