@@ -8,6 +8,9 @@ Prueba squash 2
 Prueba squash 3
 Prueba squash 4
 Prueba cherry pick 1
+<<<<<<< HEAD
 Prueba cherry pick 2
 Prueba cherry pick 3
 
+=======
+>>>>>>> fcf9268 (Cherry pick 1)
