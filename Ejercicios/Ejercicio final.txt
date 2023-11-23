@@ -1,0 +1,9 @@
+- Organizaos en equipos de 2 o 3 personas
+- Cread un nuevo repo
+- Cread la rama main y haced un cambio cada persona
+- A partir de ahora se van creando tags entre cada paso (y si se olvida se puede crear a posteriori)
+- Cread cada uno una rama y haced 2 cambios
+- Traer los cambios hasta main con un merge
+- Repetir y traer los cambios hasta main con un rebase
+- Repetir y traer los cambios hasta main con un squash
+- Por último haced cada uno 3 cambios en una rama y con cherry pick traed el cambio intermedio
